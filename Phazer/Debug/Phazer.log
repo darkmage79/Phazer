@@ -1,0 +1,5 @@
+﻿  Phazer.cpp
+e:\phazer\phazer\phazer.cpp(52): warning C4229: anachronism used: modifiers on data are ignored
+e:\phazer\phazer\phazer.cpp(56): warning C4229: anachronism used: modifiers on data are ignored
+  Phazer.vcxproj -> c:\users\logan\documents\visual studio 2015\Projects\ConsoleApplication1\Debug\Phazer.exe
+  Phazer.vcxproj -> c:\users\logan\documents\visual studio 2015\Projects\ConsoleApplication1\Debug\Phazer.pdb (Full PDB)

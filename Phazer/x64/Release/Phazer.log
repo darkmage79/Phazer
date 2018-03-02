@@ -1,0 +1,12 @@
+﻿  stdafx.cpp
+  HexWriter.cpp
+  Phazer.cpp
+  Menu.cpp
+  SillyMouse.cpp
+SillyMouse.cpp(15): warning C4273: 'rand': inconsistent dll linkage
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdlib.h(343): note: see previous definition of 'rand'
+  VirusMethods.cpp
+VirusMethods.cpp(213): error C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
+VirusMethods.cpp(225): warning C4129: '/': unrecognized character escape sequence
+VirusMethods.cpp(229): warning C4129: '/': unrecognized character escape sequence
